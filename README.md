@@ -39,4 +39,4 @@ The goal of the game focuses on detecting a difference in the brightness of a co
 The program will create files called ```normalScores.txt``` and ```frenzyScores.txt``` and write the player's highest score for each game mode. The program will read in the files to compare the player's current score to their highest score.
 
 ## Installation
-To install this program, simply download the project as a ZIP file. Then, open the project folder in your IDE of choice and hit "Run" on the ```colorSleuth.java``` file.
+To install this program, simply download the project as a ZIP file. Then, open the project folder in your IDE of choice and hit "Run" on the ```colorSleuth.java``` file. You can also download the runnable ```ColorSleuth.jar``` file and run it directly.
